@@ -22,7 +22,7 @@ Aşağıdaki yazılımların yüklü olduğundan emin olun:
 
 1. Repository'yi klonlayın:
    ```bash
-   git clone https://github.com/bilalmuzafferkose/spring-customer-archiving-system-ui
+   git clone https://github.com/bilalmuzafferkose/customer-archiving-system-ui
    ```
 2. Proje dizinine gidin:
     ```bash
