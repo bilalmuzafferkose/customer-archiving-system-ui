@@ -28,7 +28,11 @@ Aşağıdaki yazılımların yüklü olduğundan emin olun:
     ```bash
     cd spring-customer-archiving-system
     ```
-3. React uygulamasını başlatın:
+3. Proje bağımlılıklarını kurun:
+    ```bash
+    npm install
+    ```
+4. React uygulamasını başlatın:
     ```bash
     npm run dev
     ```
